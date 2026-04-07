@@ -1,5 +1,5 @@
 {
-  "username":"dave",
-  "password":"daveserver162",
-  "expired":"2026-12-31"
+  "username": "alice",
+  "password": "secret",
+  "expired": "2099-12-31"
 }
